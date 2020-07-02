@@ -4,5 +4,5 @@ class Board
   def cells
     @cells = cells
   end
-  
+
 end
